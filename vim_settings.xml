@@ -53,6 +53,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/software/project/excavator-boot/kafka-spring-boot-starter/src/test/scala/org/excavator/boot/kafka/test/KafkaApplication.scala" timestamp="1586672052183" />
       <file name="/fragment.py" timestamp="1586155865740">
         <mark key="[" line="0" column="0" />
       </file>
