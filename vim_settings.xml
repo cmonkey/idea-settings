@@ -20,7 +20,6 @@
       </history-search>
       <history-cmd>
         <entry>29</entry>
-        <entry>q</entry>
         <entry>38</entry>
         <entry>8</entry>
         <entry>230</entry>
@@ -29,6 +28,7 @@
         <entry>wq</entry>
         <entry>10</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -53,7 +53,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/software/project/excavator-boot/kafka-spring-boot-starter/src/test/scala/org/excavator/boot/kafka/test/KafkaApplication.scala" timestamp="1586672052183" />
       <file name="/fragment.py" timestamp="1586155865740">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,6 +61,9 @@
         <mark key="]" line="13" column="53" />
         <mark key="." line="13" column="53" />
         <mark key="^" line="13" column="53" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" timestamp="1586956384947">
+        <mark key="'" line="106" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1586155863245">
         <mark key="[" line="0" column="0" />
@@ -125,6 +127,9 @@
       <jump line="19" column="4" filename="$USER_HOME$/project/jvm-inside/src/test/scala/PlayTests.scala" />
       <jump line="1363" column="4" filename="/usr/lib/jvm/default/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
       <jump line="42" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.14.RELEASE/spring-context-5.1.14.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java" />
+      <jump line="76" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" />
+      <jump line="41" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" />
+      <jump line="106" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -172,7 +177,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
