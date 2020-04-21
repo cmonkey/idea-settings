@@ -27,8 +27,8 @@
         <entry>Lw</entry>
         <entry>wq</entry>
         <entry>10</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -53,6 +53,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/GraalvmApplication.java" timestamp="1587433530600">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="47" />
+        <mark key="^" line="32" column="47" />
+        <mark key="." line="32" column="46" />
+      </file>
+      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/Reservation.java" timestamp="1587432841054">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1586155865740">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,7 +77,13 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" timestamp="1586956384947">
         <mark key="'" line="106" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1586155863245">
+      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/ReservationRepository.java" timestamp="1587432792202">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="4" column="90" />
+        <mark key="^" line="4" column="90" />
+        <mark key="." line="4" column="89" />
+      </file>
+      <file name="/fragment.java" timestamp="1587432798622">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -135,49 +153,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>home</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSA=</text>
       </register>
       <register name="+" type="4">
         <text>hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests</text>
       </register>
       <register name="-" type="4">
-        <text>home</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZChuZXcgUHJpY2UoMTAuMCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5yZWFjdGl2ZS5mdW5jdGlvbi5zZXJ2ZXIuUm91dGVyRnVuY3Rpb25zLnJvdXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvIikK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuUmVzcG9uc2VFbnRpdHkub2s7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuUmVzcG9uc2VFbnRpdHkub2s7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTdGF0ZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZm9ybWF0LmFubm90YXRpb24uRGF0ZVRpbWVGb3JtYXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lm1hbmFnZW1lbnQuTVhCZWFuOwo=</text>
+        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXV0bnIgKCkK</text>
+        <text encoding="base64">ICAgIEBTdGF0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm1hbmFnZW1lbnQuTVhCZWFuOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXV0bnIgKCkK</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
