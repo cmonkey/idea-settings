@@ -48,22 +48,26 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/GraalvmApplication.java" timestamp="1587433530600">
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="47" />
-        <mark key="^" line="32" column="47" />
-        <mark key="." line="32" column="46" />
+      <file name="$USER_HOME$/project/graalvm/target/classes/META-INF/spring.components" timestamp="1587459957183" />
+      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/GraalvmApplication.java" timestamp="1587460405609">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/Reservation.java" timestamp="1587432841054">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/Reservation.java" timestamp="1587433840940">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="/fragment.py" timestamp="1586155865740">
         <mark key="[" line="0" column="0" />
@@ -77,15 +81,18 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" timestamp="1586956384947">
         <mark key="'" line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/ReservationRepository.java" timestamp="1587432792202">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="4" column="90" />
-        <mark key="^" line="4" column="90" />
-        <mark key="." line="4" column="89" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.M4/spring-boot-autoconfigure-2.3.0.M4-sources.jar!/org/springframework/boot/autoconfigure/transaction/TransactionAutoConfiguration.java" timestamp="1587435523831" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.M4/spring-boot-autoconfigure-2.3.0.M4-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1587459485097" />
+      <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/ReservationRepository.java" timestamp="1587433855696">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="/fragment.java" timestamp="1587432798622">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.M4/spring-boot-autoconfigure-2.3.0.M4-sources.jar!/org/springframework/boot/autoconfigure/task/TaskSchedulingAutoConfiguration.java" timestamp="1587459585423" />
     </filemarks>
     <jumps>
       <jump line="36" column="30" filename="$USER_HOME$/project/insuranceService/pom.xml" />
@@ -153,13 +160,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSA=</text>
+        <text>Sebastien</text>
       </register>
       <register name="+" type="4">
         <text>hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSA=</text>
+        <text>Sebastien</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
