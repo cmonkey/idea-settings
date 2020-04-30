@@ -63,6 +63,7 @@
       <file name="/Dummy.txt" timestamp="1587967731889">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/software/gitrepo/seata/common/src/main/java/io/seata/common/Constants.java" timestamp="1588272001276" />
       <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/GraalvmApplication.java" timestamp="1587460405609">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="30" column="48" />
@@ -90,11 +91,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" timestamp="1586956384947">
         <mark key="'" line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" timestamp="1588271918142">
-        <mark key="'" line="67" column="78" />
+      <file name="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" timestamp="1588272040045">
+        <mark key="'" line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" timestamp="1588271904461">
-        <mark key="'" line="151" column="34" />
+      <file name="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" timestamp="1588272051221">
+        <mark key="'" line="133" column="58" />
       </file>
       <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/ReservationRepository.java" timestamp="1587433855696">
         <mark key="[" line="0" column="34" />
@@ -169,10 +170,6 @@
       <jump line="106" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.13.RELEASE/spring-boot-2.1.13.RELEASE-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java" />
       <jump line="34" column="23" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
       <jump line="218" column="73" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
-      <jump line="81" column="33" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
-      <jump line="130" column="14" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
-      <jump line="132" column="96" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
-      <jump line="133" column="58" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
       <jump line="142" column="14" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
       <jump line="145" column="51" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
       <jump line="151" column="34" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
@@ -183,7 +180,12 @@
       <jump line="58" column="33" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" />
       <jump line="64" column="14" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" />
       <jump line="66" column="57" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" />
-      <jump line="67" column="78" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" />
+      <jump line="67" column="55" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" />
+      <jump line="54" column="40" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionalInterceptor.java" />
+      <jump line="81" column="33" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
+      <jump line="130" column="14" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
+      <jump line="132" column="96" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
+      <jump line="133" column="58" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -237,9 +239,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmYWlsdXJlSGFuZGxlclw+</last-search>
+      <last-search encoding="base64">XDxmYWlsdXJlSGFuZGxlckhvb2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWlsdXJlSGFuZGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxmYWlsdXJlSGFuZGxlckhvb2tcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
