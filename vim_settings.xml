@@ -60,10 +60,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587967731889">
+      <file name="/Dummy.txt" timestamp="1588307001172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/seata/common/src/main/java/io/seata/common/Constants.java" timestamp="1588272001276" />
       <file name="$USER_HOME$/project/graalvm/src/main/java/org/excavator/boot/graalvm/GraalvmApplication.java" timestamp="1587460405609">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="30" column="48" />
