@@ -75,9 +75,6 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/a.sql" timestamp="1587967731244">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1586155865740">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,6 +98,12 @@
         <mark key="]" line="0" column="45" />
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/software/gitrepo/seata/all/pom.xml" timestamp="1588322039672">
+        <mark key="'" line="289" column="38" />
+      </file>
+      <file name="/a.sql" timestamp="1587967731244">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587432798622">
         <mark key="[" line="0" column="0" />
@@ -185,6 +188,7 @@
       <jump line="130" column="14" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
       <jump line="132" column="96" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
       <jump line="133" column="58" filename="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" />
+      <jump line="289" column="38" filename="$USER_HOME$/software/gitrepo/seata/all/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
