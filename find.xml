@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'runtime'" />
-    <option name="defaultScopeName" value="Project 'runtime'" />
-    <option name="SEARCH_SCOPE" value="Project 'runtime'" />
+    <option name="customScope" value="Project 'Mycat-server'" />
+    <option name="defaultScopeName" value="Project 'Mycat-server'" />
+    <option name="SEARCH_SCOPE" value="Project 'Mycat-server'" />
   </component>
 </application>
