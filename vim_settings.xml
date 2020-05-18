@@ -99,16 +99,13 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/Mycat-Server/src/test/java/io/mycat/parser/ManagerParserTest.java" timestamp="1589304155558" />
       <file name="$USER_HOME$/software/gitrepo/seata/all/pom.xml" timestamp="1588322039672">
         <mark key="'" line="289" column="38" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/Mycat-Server/src/main/java/io/mycat/route/parser/druid/DruidParser.java" timestamp="1589304599424" />
       <file name="/a.sql" timestamp="1587967731244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/Mycat-Server/src/test/java/io/mycat/route/DruidMysqlCreateTableTest.java" timestamp="1589303940792" />
-      <file name="/fragment.java" timestamp="1587432798622">
+      <file name="/fragment.java" timestamp="1589807370875">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
