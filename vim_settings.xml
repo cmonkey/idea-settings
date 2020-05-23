@@ -60,19 +60,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590201917583">
+      <file name="$USER_HOME$/software/gitrepo/seata/all/pom.xml" timestamp="1588322039672">
+        <mark key="'" line="289" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590211542392">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1590201917561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" timestamp="1588272051221">
         <mark key="'" line="133" column="58" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/seata/all/pom.xml" timestamp="1588322039672">
-        <mark key="'" line="289" column="38" />
-      </file>
-      <file name="/a.sql" timestamp="1590201917561">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1589807433412">
+      <file name="/fragment.java" timestamp="1590211542422">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
