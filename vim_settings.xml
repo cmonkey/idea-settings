@@ -60,31 +60,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/software/project/excavator-boot/authorization-spring-boot-starter/src/main/resources/META-INF/spring.factories" timestamp="1589808403606" />
+      <file name="/Dummy.txt" timestamp="1590201917583">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/software/gitrepo/seata/spring/src/main/java/io/seata/spring/annotation/GlobalTransactionScanner.java" timestamp="1588272051221">
         <mark key="'" line="133" column="58" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/servicecomb-pack/alpha/alpha-fsm/src/main/java/org/apache/servicecomb/pack/alpha/fsm/metrics/MetricsService.java" timestamp="1589809990937" />
-      <file name="$USER_HOME$/software/gitrepo/servicecomb-pack/pack-common/src/main/java/org/apache/servicecomb/pack/common/EventType.java" timestamp="1589809798207" />
       <file name="$USER_HOME$/software/gitrepo/seata/all/pom.xml" timestamp="1588322039672">
         <mark key="'" line="289" column="38" />
       </file>
-      <file name="$USER_HOME$/software/gitrepo/Mycat-Server/src/main/java/io/mycat/backend/mysql/nio/MySQLConnection.java" timestamp="1589810416071" />
-      <file name="$USER_HOME$/software/project/excavator-boot/base/src/main/java/org/excavator/boot/base/constant/Constant.java" timestamp="1589808267625" />
-      <file name="$USER_HOME$/software/gitrepo/servicecomb-pack/omega/omega-connector/omega-connector-grpc/src/main/java/org/apache/servicecomb/pack/omega/connector/grpc/saga/GrpcSagaClientMessageSender.java" timestamp="1589810276325" />
-      <file name="$USER_HOME$/software/project/excavator-boot/base/src/main/java/org/excavator/boot/base/domain/Page.java" timestamp="1589808306966" />
-      <file name="/Dummy.txt" timestamp="1589807414595">
+      <file name="/a.sql" timestamp="1590201917561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.15.RELEASE/spring-context-5.1.15.RELEASE.jar!/org/springframework/scripting/support/ResourceScriptSource.class" timestamp="1589808509648" />
-      <file name="$USER_HOME$/software/project/excavator-boot/base/src/main/java/org/excavator/boot/base/mapper/BaseMapper.java" timestamp="1589808286810" />
-      <file name="$USER_HOME$/software/project/excavator-boot/base/src/main/java/org/excavator/boot/base/service/BaseServiceImpl.java" timestamp="1589808289470" />
-      <file name="$USER_HOME$/software/project/excavator-boot/config-spring-boot-starter/src/test/scala/org/excavator/boot/config/test/controller/ConfigController.scala" timestamp="1589809028814" />
-      <file name="$USER_HOME$/software/project/excavator-boot/base/src/main/java/org/excavator/boot/base/validator/BeanValidators.java" timestamp="1589808360252" />
       <file name="/fragment.java" timestamp="1589807433412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/software/project/excavator-boot/cumulative-spring-boot-starter/src/main/java/org/excavator/boot/cumulative/autoconfigure/CumulativeAutoConfigure.java" timestamp="1589808502268" />
     </filemarks>
     <jumps>
       <jump line="36" column="30" filename="$USER_HOME$/project/insuranceService/pom.xml" />
